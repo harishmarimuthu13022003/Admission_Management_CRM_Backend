@@ -24,7 +24,7 @@ Use these to perform the first login and seed the master data:
    ```env
    PORT=5000
    MONGO_URI=mongodb://127.0.0.1:27017/admission_crm
-   JWT_SECRET=your_jwt_secret_key
+   
    ```
 2. **Install Dependencies**:
    ```bash
